@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38603
     wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39766#English-and-Scottish-Ballads-Volume-VI--of-8-
 gutenberg_issued: '2012-05-22'
 gutenberg_type: Text
 identifiers:
